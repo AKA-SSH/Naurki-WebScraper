@@ -8,8 +8,7 @@ Naurki_WebScraper is a web scraping tool designed to extract job listings from N
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -32,3 +31,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```bash
    git clone https://github.com/AKA-SSH/Naurki_WebScraper.git
+
+# Acknowledgements
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+- [Requests](https://docs.python-requests.org/en/master/)
+- [Selenium](https://www.selenium.dev/)
